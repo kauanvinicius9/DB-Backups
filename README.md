@@ -8,6 +8,6 @@ When creating, we can edit, add, or delete data from a table. It is not complex 
 ---
 
 ```powershell
-git clone https://github.com/Kauan19-hub/DB-Backups
+git clone https://github.com/kauanvinicius9/DB-Backups
 ```
 
